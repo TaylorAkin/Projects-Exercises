@@ -80,7 +80,7 @@ To complete the assignment, you must complete the following:
 2. Create a dynamic restaurant menu via the [API](https://entree-f18.herokuapp.com/)
 
 - Must include at _least five_ sections for unique meal type (appetizers, breakfast before 10am, lunch menu, main course, sides, dessert, etc)
-  - each meal type must include _at least_ 12 (12) entries per type of meal (bagel and lox, plate of pancakes, omelette, etc) (each section does not need strictly 12; dessert can be 5, appetizers can be 8, etc)
+   (each section does not need strictly 12; dessert can be 5, appetizers can be 8, etc)
   - since the api generates random foods, you do not need to sort the foods, as long as you are display them in their unique sections (imagine this restaurant exists in a parallel universe where people eat whatever, whenever)
   - A price for the food item
 - Each Menu Section must be viewable separately in an [organism](https://patternlab.io) (for example, a bootstrap [accordion](https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example) or [nav tabs](https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior))
